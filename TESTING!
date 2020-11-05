@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+    <html lang="en-US">
+    <meta charset="UTF-8">
+
+    <script>
+        var time = new Date();
+        console.log(time.getHours() + ":" + time.getMinutes() + ":" + time.getSeconds());
+    </script>
+
+        <head>
+            <title>This is where I learn</title>
+        </head>
+            
+        <body>
+        </body>
+
+    </html>
